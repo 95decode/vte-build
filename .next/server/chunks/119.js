@@ -1512,77 +1512,80 @@ var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([i18n
 const Header = ({ isBlack })=>{
     const { t } = (0,react_i18next__WEBPACK_IMPORTED_MODULE_2__.useTranslation)();
     const router = (0,next_router__WEBPACK_IMPORTED_MODULE_5__.useRouter)();
-    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-        className: `h-[100px] flex items-center justify-between border border-transparent border-b-black ${isBlack ? "bg-black" : "bg-vte-violet"}`,
-        children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_assets_VTELogo__WEBPACK_IMPORTED_MODULE_3__/* .VTELogo */ .j, {
-                className: "ml-[18.75vw] hover:cursor-pointer",
-                onClick: ()=>{
-                    router.push("/");
-                }
-            }),
-            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                className: "flex items-center",
-                children: [
-                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                        className: `flex h-[100px] pt-[50px] mr-[14vw] gap-[3.7vw] text-[18px] font-apple ${isBlack ? "text-vte-gray-2" : "text-white"} `,
-                        children: [
-                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                children: [
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `hover:cursor-pointer ${isBlack && router.asPath === "/company" ? "text-white" : "hover:text-white"}`,
-                                        onClick: ()=>{
-                                            router.push("/company");
-                                        },
-                                        children: t("word.company")
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `${isBlack && router.asPath === "/company" ? "border" : null}`
-                                    })
-                                ]
-                            }),
-                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                children: [
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `hover:cursor-pointer ${isBlack && router.asPath === "/products" ? "text-white" : "hover:text-white"}`,
-                                        onClick: ()=>{
-                                            router.push("/products");
-                                        },
-                                        children: t("word.products")
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `${isBlack && router.asPath === "/products" ? "border" : null}`
-                                    })
-                                ]
-                            }),
-                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                children: [
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `hover:cursor-pointer ${isBlack && router.asPath === "/support" ? "text-white" : "hover:text-white"}`,
-                                        onClick: ()=>{
-                                            router.push("/support");
-                                        },
-                                        children: t("word.support")
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: `${isBlack && router.asPath === "/support" ? "border" : null}`
-                                    })
-                                ]
-                            })
-                        ]
-                    }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                        className: "h-[100px] pt-[40px] mr-[3.2vw]",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                            className: "h-[30px] w-[30px] rounded-full bg-white border border-white overflow-hidden flex items-center justify-center hover:cursor-pointer",
-                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Flag__WEBPACK_IMPORTED_MODULE_4__/* .Flag */ .W, {
-                                lang: i18next__WEBPACK_IMPORTED_MODULE_1__["default"].language
+    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+        className: "fixed w-full z-50",
+        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+            className: `h-[100px] flex items-center justify-between border border-transparent border-b-black ${isBlack ? "bg-black" : "bg-vte-violet"}`,
+            children: [
+                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_assets_VTELogo__WEBPACK_IMPORTED_MODULE_3__/* .VTELogo */ .j, {
+                    className: "ml-[18.75vw] hover:cursor-pointer",
+                    onClick: ()=>{
+                        router.push("/");
+                    }
+                }),
+                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                    className: "flex items-center",
+                    children: [
+                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                            className: `flex h-[100px] pt-[39px] mr-[14vw] gap-[3.7vw] text-[18px] font-apple ${isBlack ? "text-vte-gray-2" : "text-white"} `,
+                            children: [
+                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                    className: `group hover:cursor-pointer h-min ${isBlack && router.asPath === "/company" ? "text-white" : "hover:text-white"}`,
+                                    onClick: ()=>{
+                                        router.push("/company");
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            children: t("word.company")
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            className: `group-hover:border ${isBlack && router.asPath === "/company" ? "border" : null}`
+                                        })
+                                    ]
+                                }),
+                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                    className: `group hover:cursor-pointer h-min ${isBlack && router.asPath === "/products" ? "text-white" : "hover:text-white"}`,
+                                    onClick: ()=>{
+                                        router.push("/products");
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            children: t("word.products")
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            className: `group-hover:border h-min ${isBlack && router.asPath === "/products" ? "border" : null}`
+                                        })
+                                    ]
+                                }),
+                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                    className: `group hover:cursor-pointer ${isBlack && router.asPath === "/support" ? "text-white" : "hover:text-white"}`,
+                                    onClick: ()=>{
+                                        router.push("/support");
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            children: t("word.support")
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            className: `group-hover:border ${isBlack && router.asPath === "/support" ? "border" : null}`
+                                        })
+                                    ]
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                            className: "h-[100px] flex items-center mr-[3.2vw]",
+                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                className: "h-[30px] w-[30px] rounded-full bg-white border border-white overflow-hidden flex items-center justify-center hover:cursor-pointer",
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Flag__WEBPACK_IMPORTED_MODULE_4__/* .Flag */ .W, {
+                                    lang: i18next__WEBPACK_IMPORTED_MODULE_1__["default"].language
+                                })
                             })
                         })
-                    })
-                ]
-            })
-        ]
+                    ]
+                })
+            ]
+        })
     });
 };
 

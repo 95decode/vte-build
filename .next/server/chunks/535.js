@@ -78,7 +78,7 @@ __webpack_async_result__();
 
 const Contact = ()=>{
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-        className: "z-30 w-[120px] h-[120px] bg-white rounded-full flex items-center justify-center hover:cursor-pointer fixed bottom-[50px] right-[110px]",
+        className: "z-50 w-[120px] h-[120px] bg-white rounded-full flex items-center justify-center hover:cursor-pointer fixed bottom-[50px] right-[110px]",
         onClick: ()=>{
             window.open("https://pf.kakao.com/_yxjsAG/chat");
         },
@@ -86,7 +86,8 @@ const Contact = ()=>{
             src: `/images/Contact.png`,
             alt: "contact",
             width: 73,
-            height: 72
+            height: 72,
+            priority: true
         })
     });
 };
@@ -220,7 +221,34 @@ const Chinese = {
         }
     },
     products: {
-        title: "PRODUCTS"
+        title: "PRODUCTS",
+        "1": {
+            "1": "LAF2 SCHOTT",
+            "2": "FC5 HOYA",
+            "3": "FD7 HOYA",
+            "4": "FD8  HOYA",
+            "5": "LAF2 SCHOTT",
+            "6": "LAF2 SCHOTT"
+        },
+        "2": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "3": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "4": {
+            "1": "Glass",
+            "2": "Siver Coating",
+            "3": "Glass"
+        }
     },
     support: {
         title: "SUPPORT",
@@ -370,7 +398,34 @@ const English = {
         }
     },
     products: {
-        title: "PRODUCTS"
+        title: "PRODUCTS",
+        "1": {
+            "1": "LAF2 SCHOTT",
+            "2": "FC5 HOYA",
+            "3": "FD7 HOYA",
+            "4": "FD8  HOYA",
+            "5": "LAF2 SCHOTT",
+            "6": "LAF2 SCHOTT"
+        },
+        "2": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "3": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "4": {
+            "1": "Glass",
+            "2": "Siver Coating",
+            "3": "Glass"
+        }
     },
     support: {
         title: "SUPPORT",
@@ -521,7 +576,34 @@ const Korean = {
         }
     },
     products: {
-        title: "PRODUCTS"
+        title: "PRODUCTS",
+        "1": {
+            "1": "LAF2 SCHOTT",
+            "2": "FC5 HOYA",
+            "3": "FD7 HOYA",
+            "4": "FD8  HOYA",
+            "5": "LAF2 SCHOTT",
+            "6": "LAF2 SCHOTT"
+        },
+        "2": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "3": {
+            "1": "TSP-M",
+            "2": "OCA",
+            "3": "Black Print",
+            "4": "Glass",
+            "5": "AF Coating"
+        },
+        "4": {
+            "1": "Glass",
+            "2": "Siver Coating",
+            "3": "Glass"
+        }
     },
     support: {
         title: "SUPPORT",
