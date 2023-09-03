@@ -238,11 +238,11 @@ const Chinese = {
             "5": "AF Coating"
         },
         "3": {
-            "1": "TSP-M",
-            "2": "OCA",
+            "1": "AF Coating",
+            "2": "Glass",
             "3": "Black Print",
-            "4": "Glass",
-            "5": "AF Coating"
+            "4": "OCA",
+            "5": "TSP-M"
         },
         "4": {
             "1": "Glass",
@@ -415,11 +415,11 @@ const English = {
             "5": "AF Coating"
         },
         "3": {
-            "1": "TSP-M",
-            "2": "OCA",
+            "1": "AF Coating",
+            "2": "Glass",
             "3": "Black Print",
-            "4": "Glass",
-            "5": "AF Coating"
+            "4": "OCA",
+            "5": "TSP-M"
         },
         "4": {
             "1": "Glass",
@@ -593,11 +593,11 @@ const Korean = {
             "5": "AF Coating"
         },
         "3": {
-            "1": "TSP-M",
-            "2": "OCA",
+            "1": "AF Coating",
+            "2": "Glass",
             "3": "Black Print",
-            "4": "Glass",
-            "5": "AF Coating"
+            "4": "OCA",
+            "5": "TSP-M"
         },
         "4": {
             "1": "Glass",
