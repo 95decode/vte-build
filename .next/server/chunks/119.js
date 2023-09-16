@@ -1544,7 +1544,7 @@ const Header = ({ isBlack })=>{
                                     ]
                                 }),
                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                    className: `group hover:cursor-pointer h-min ${isBlack && router.asPath === "/products" ? "text-white" : "hover:text-white"}`,
+                                    className: `group hover:cursor-pointer h-min ${isBlack && router.asPath.startsWith("/products") ? "text-white" : "hover:text-white"}`,
                                     onClick: ()=>{
                                         router.push("/products");
                                     },
@@ -1558,7 +1558,7 @@ const Header = ({ isBlack })=>{
                                     ]
                                 }),
                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                    className: `group hover:cursor-pointer ${isBlack && router.asPath === "/support" ? "text-white" : "hover:text-white"}`,
+                                    className: `group hover:cursor-pointer ${isBlack && router.asPath.startsWith("/support") ? "text-white" : "hover:text-white"}`,
                                     onClick: ()=>{
                                         router.push("/support");
                                     },
