@@ -411,10 +411,28 @@ const Chinese = {
             "4": "FLAT LENS",
             "5": "ASPHERICAL LENS1",
             "6": "ASPHERICAL LENS2",
-            title: "Covers every field and applications",
-            title2: "High quality, High precision",
-            description: "VTE's advanced optics always steps ahead to lead the next-generation of consumer devices. The use of aspherics in an optical system achieves various advantages such as correction of spherical aberration, system miniaturization and weight reduction. Regarding optical design, the use of an aspherical lenses allows the optical system to be reduced in size and weight.",
-            description2: "VTE is specialized in the production of aspheric lenses. A finished polished lens has no pores or cracks on a surface as well as the desired shape accuracy and surface quality because we process double-inspection and finishing for more precision."
+            title: {
+                "1": "Covers every field and applications"
+            },
+            title2: {
+                "1": "High quality, High precision"
+            },
+            description: {
+                "1": "VTE's advanced optics always steps ahead to lead",
+                "2": "the next-generation of consumer devices.",
+                "3": "The use of aspherics in an optical system achieves",
+                "4": "various advantages such as correction of spherical aberration,",
+                "5": "system miniaturization and weight reduction.",
+                "6": "Regarding optical design, the use of an aspherical lenses allows",
+                "7": "the optical system to be reduced in size and weight."
+            },
+            description2: {
+                "1": "VTE is specialized in the production of aspheric lenses.",
+                "2": "A finished polished lens has no pores or cracks on",
+                "3": "a surface as well as the desired shape accuracy and",
+                "4": "surface quality because we process double-inspection",
+                "5": "and finishing for more precision."
+            }
         },
         "2": {
             "1": "TSP - M",
@@ -422,10 +440,25 @@ const Chinese = {
             "3": "Black Print",
             "4": "Glass",
             "5": "AF Coating",
-            title: "High durability with better design",
-            title2: "Leading the future and technology",
-            description: "VTE's tempered glass can be applied to various ways in our life style. We believe that glass contributes to showing high-end quality in general home appliances such as oven and refrigerator.",
-            description2: "VTE's tempered glass can be applied to kiosk and advanced interactive display."
+            title: {
+                "1": "High durability with",
+                "2": "better design"
+            },
+            title2: {
+                "1": "Leading the future and",
+                "2": "technology"
+            },
+            description: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "various ways in our life style.",
+                "3": "We believe that glass contributes to showing",
+                "4": "high-end quality in general home appliances",
+                "5": "such as oven and refrigerator."
+            },
+            description2: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "kiosk and advanced interactive display."
+            }
         },
         "3": {
             "1": "AF Coating",
@@ -433,19 +466,48 @@ const Chinese = {
             "3": "Black Print",
             "4": "SI - OCA",
             "5": "TSP - M",
-            title: "Driving towards the trend",
-            title2: "Enhance your driving experience",
-            description: "VTE's takes several steps ahead towords to contribute to global automotive technology. We manufacture durable and optically advanced cover glass solution specifically designed for auto interior applications.",
-            description2: "VTE's glass solution for automotive is also applied to head-up display."
+            title: {
+                "1": "Driving towards the trend"
+            },
+            title2: {
+                "1": "Enhance your driving",
+                "2": "experience"
+            },
+            description: {
+                "1": "VTE's takes several steps ahead towords to contribute",
+                "2": "to global automotive technology.",
+                "3": "We manufacture durable and optically advanced",
+                "4": "cover glass solution specifically designed for",
+                "5": "auto interior applications."
+            },
+            description2: {
+                "1": "VTE's glass solution for automotive is also applied to",
+                "2": "head-up display."
+            }
         },
         "4": {
             "1": "Glass",
             "2": "Siver Coating",
             "3": "Glass",
-            title: "Thermal efficiency",
-            title2: "Another level of Insulation and heat Resistance",
-            description: "VTE manufactures a Low-E glass especially for oven doors with low-emissivity coating, which allows a high flexibility in the design phase of the oven by the customer.",
-            description2: "VTE's Low-E glass makes it easy to have heat resistance even at 1000 degrees. This special glass with excellent insulation makes incredible energy efficiency."
+            title: {
+                "1": "Thermal efficiency"
+            },
+            title2: {
+                "1": "Another level of Insulation",
+                "2": "and heat Resistance"
+            },
+            description: {
+                "1": "VTE manufactures a Low-E glass especially for",
+                "2": "oven doors with low-emissivity coating,",
+                "3": "which allows a high flexibility in the design phase of",
+                "4": "the oven by the customer."
+            },
+            description2: {
+                "1": "VTE's Low-E glass makes it easy to have heat",
+                "2": "resistance even at 1000 degrees.",
+                "3": "This special glass with excellent insulation",
+                "4": "makes incredible energy efficiency."
+            }
         }
     },
     support: {
@@ -653,10 +715,28 @@ const English = {
             "4": "FLAT LENS",
             "5": "ASPHERICAL LENS1",
             "6": "ASPHERICAL LENS2",
-            title: "Covers every field and applications",
-            title2: "High quality, High precision",
-            description: "VTE's advanced optics always steps ahead to lead the next-generation of consumer devices. The use of aspherics in an optical system achieves various advantages such as correction of spherical aberration, system miniaturization and weight reduction. Regarding optical design, the use of an aspherical lenses allows the optical system to be reduced in size and weight.",
-            description2: "VTE is specialized in the production of aspheric lenses. A finished polished lens has no pores or cracks on a surface as well as the desired shape accuracy and surface quality because we process double-inspection and finishing for more precision."
+            title: {
+                "1": "Covers every field and applications"
+            },
+            title2: {
+                "1": "High quality, High precision"
+            },
+            description: {
+                "1": "VTE's advanced optics always steps ahead to lead",
+                "2": "the next-generation of consumer devices.",
+                "3": "The use of aspherics in an optical system achieves",
+                "4": "various advantages such as correction of spherical aberration,",
+                "5": "system miniaturization and weight reduction.",
+                "6": "Regarding optical design, the use of an aspherical lenses allows",
+                "7": "the optical system to be reduced in size and weight."
+            },
+            description2: {
+                "1": "VTE is specialized in the production of aspheric lenses.",
+                "2": "A finished polished lens has no pores or cracks on",
+                "3": "a surface as well as the desired shape accuracy and",
+                "4": "surface quality because we process double-inspection",
+                "5": "and finishing for more precision."
+            }
         },
         "2": {
             "1": "TSP - M",
@@ -664,10 +744,25 @@ const English = {
             "3": "Black Print",
             "4": "Glass",
             "5": "AF Coating",
-            title: "High durability with better design",
-            title2: "Leading the future and technology",
-            description: "VTE's tempered glass can be applied to various ways in our life style. We believe that glass contributes to showing high-end quality in general home appliances such as oven and refrigerator.",
-            description2: "VTE's tempered glass can be applied to kiosk and advanced interactive display."
+            title: {
+                "1": "High durability with",
+                "2": "better design"
+            },
+            title2: {
+                "1": "Leading the future and",
+                "2": "technology"
+            },
+            description: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "various ways in our life style.",
+                "3": "We believe that glass contributes to showing",
+                "4": "high-end quality in general home appliances",
+                "5": "such as oven and refrigerator."
+            },
+            description2: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "kiosk and advanced interactive display."
+            }
         },
         "3": {
             "1": "AF Coating",
@@ -675,19 +770,48 @@ const English = {
             "3": "Black Print",
             "4": "SI - OCA",
             "5": "TSP - M",
-            title: "Driving towards the trend",
-            title2: "Enhance your driving experience",
-            description: "VTE's takes several steps ahead towords to contribute to global automotive technology. We manufacture durable and optically advanced cover glass solution specifically designed for auto interior applications.",
-            description2: "VTE's glass solution for automotive is also applied to head-up display."
+            title: {
+                "1": "Driving towards the trend"
+            },
+            title2: {
+                "1": "Enhance your driving",
+                "2": "experience"
+            },
+            description: {
+                "1": "VTE's takes several steps ahead towords to contribute",
+                "2": "to global automotive technology.",
+                "3": "We manufacture durable and optically advanced",
+                "4": "cover glass solution specifically designed for",
+                "5": "auto interior applications."
+            },
+            description2: {
+                "1": "VTE's glass solution for automotive is also applied to",
+                "2": "head-up display."
+            }
         },
         "4": {
             "1": "Glass",
             "2": "Siver Coating",
             "3": "Glass",
-            title: "Thermal efficiency",
-            title2: "Another level of Insulation and heat Resistance",
-            description: "VTE manufactures a Low-E glass especially for oven doors with low-emissivity coating, which allows a high flexibility in the design phase of the oven by the customer.",
-            description2: "VTE's Low-E glass makes it easy to have heat resistance even at 1000 degrees. This special glass with excellent insulation makes incredible energy efficiency."
+            title: {
+                "1": "Thermal efficiency"
+            },
+            title2: {
+                "1": "Another level of Insulation",
+                "2": "and heat Resistance"
+            },
+            description: {
+                "1": "VTE manufactures a Low-E glass especially for",
+                "2": "oven doors with low-emissivity coating,",
+                "3": "which allows a high flexibility in the design phase of",
+                "4": "the oven by the customer."
+            },
+            description2: {
+                "1": "VTE's Low-E glass makes it easy to have heat",
+                "2": "resistance even at 1000 degrees.",
+                "3": "This special glass with excellent insulation",
+                "4": "makes incredible energy efficiency."
+            }
         }
     },
     support: {
@@ -895,10 +1019,28 @@ const Korean = {
             "4": "FLAT LENS",
             "5": "ASPHERICAL LENS1",
             "6": "ASPHERICAL LENS2",
-            title: "Covers every field and applications",
-            title2: "High quality, High precision",
-            description: "VTE's advanced optics always steps ahead to lead the next-generation of consumer devices. The use of aspherics in an optical system achieves various advantages such as correction of spherical aberration, system miniaturization and weight reduction. Regarding optical design, the use of an aspherical lenses allows the optical system to be reduced in size and weight.",
-            description2: "VTE is specialized in the production of aspheric lenses. A finished polished lens has no pores or cracks on a surface as well as the desired shape accuracy and surface quality because we process double-inspection and finishing for more precision."
+            title: {
+                "1": "Covers every field and applications"
+            },
+            title2: {
+                "1": "High quality, High precision"
+            },
+            description: {
+                "1": "VTE's advanced optics always steps ahead to lead",
+                "2": "the next-generation of consumer devices.",
+                "3": "The use of aspherics in an optical system achieves",
+                "4": "various advantages such as correction of spherical aberration,",
+                "5": "system miniaturization and weight reduction.",
+                "6": "Regarding optical design, the use of an aspherical lenses allows",
+                "7": "the optical system to be reduced in size and weight."
+            },
+            description2: {
+                "1": "VTE is specialized in the production of aspheric lenses.",
+                "2": "A finished polished lens has no pores or cracks on",
+                "3": "a surface as well as the desired shape accuracy and",
+                "4": "surface quality because we process double-inspection",
+                "5": "and finishing for more precision."
+            }
         },
         "2": {
             "1": "TSP - M",
@@ -906,10 +1048,25 @@ const Korean = {
             "3": "Black Print",
             "4": "Glass",
             "5": "AF Coating",
-            title: "High durability with better design",
-            title2: "Leading the future and technology",
-            description: "VTE's tempered glass can be applied to various ways in our life style. We believe that glass contributes to showing high-end quality in general home appliances such as oven and refrigerator.",
-            description2: "VTE's tempered glass can be applied to kiosk and advanced interactive display."
+            title: {
+                "1": "High durability with",
+                "2": "better design"
+            },
+            title2: {
+                "1": "Leading the future and",
+                "2": "technology"
+            },
+            description: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "various ways in our life style.",
+                "3": "We believe that glass contributes to showing",
+                "4": "high-end quality in general home appliances",
+                "5": "such as oven and refrigerator."
+            },
+            description2: {
+                "1": "VTE's tempered glass can be applied to",
+                "2": "kiosk and advanced interactive display."
+            }
         },
         "3": {
             "1": "AF Coating",
@@ -917,19 +1074,48 @@ const Korean = {
             "3": "Black Print",
             "4": "SI - OCA",
             "5": "TSP - M",
-            title: "Driving towards the trend",
-            title2: "Enhance your driving experience",
-            description: "VTE's takes several steps ahead towords to contribute to global automotive technology. We manufacture durable and optically advanced cover glass solution specifically designed for auto interior applications.",
-            description2: "VTE's glass solution for automotive is also applied to head-up display."
+            title: {
+                "1": "Driving towards the trend"
+            },
+            title2: {
+                "1": "Enhance your driving",
+                "2": "experience"
+            },
+            description: {
+                "1": "VTE's takes several steps ahead towords to contribute",
+                "2": "to global automotive technology.",
+                "3": "We manufacture durable and optically advanced",
+                "4": "cover glass solution specifically designed for",
+                "5": "auto interior applications."
+            },
+            description2: {
+                "1": "VTE's glass solution for automotive is also applied to",
+                "2": "head-up display."
+            }
         },
         "4": {
             "1": "Glass",
             "2": "Siver Coating",
             "3": "Glass",
-            title: "Thermal efficiency",
-            title2: "Another level of Insulation and heat Resistance",
-            description: "VTE manufactures a Low-E glass especially for oven doors with low-emissivity coating, which allows a high flexibility in the design phase of the oven by the customer.",
-            description2: "VTE's Low-E glass makes it easy to have heat resistance even at 1000 degrees. This special glass with excellent insulation makes incredible energy efficiency."
+            title: {
+                "1": "Thermal efficiency"
+            },
+            title2: {
+                "1": "Another level of Insulation",
+                "2": "and heat Resistance"
+            },
+            description: {
+                "1": "VTE manufactures a Low-E glass especially for",
+                "2": "oven doors with low-emissivity coating,",
+                "3": "which allows a high flexibility in the design phase of",
+                "4": "the oven by the customer."
+            },
+            description2: {
+                "1": "VTE's Low-E glass makes it easy to have heat",
+                "2": "resistance even at 1000 degrees.",
+                "3": "This special glass with excellent insulation",
+                "4": "makes incredible energy efficiency."
+            }
         }
     },
     support: {
