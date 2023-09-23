@@ -248,6 +248,10 @@ const Chinese = {
     },
     word: {
         company: "COMPANY",
+        company2: "Compnay",
+        region: "Region",
+        firstName: "First Name",
+        lastName: "Last Name",
         products: "PRODUCTS",
         support: "SUPPORT",
         download: "download",
@@ -464,7 +468,7 @@ const Chinese = {
             "1": "AF Coating",
             "2": "Glass",
             "3": "Black Print",
-            "4": "SI - OCA",
+            "4": "Si - OCA",
             "5": "TSP - M",
             title: {
                 "1": "Driving towards the trend"
@@ -527,7 +531,7 @@ const Chinese = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": 054-451-4568",
+        tel: ": +82 054-451-4568",
         fax: ": 054-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
@@ -552,6 +556,10 @@ const English = {
     },
     word: {
         company: "COMPANY",
+        company2: "Compnay",
+        region: "Region",
+        firstName: "First Name",
+        lastName: "Last Name",
         products: "PRODUCTS",
         support: "SUPPORT",
         download: "download",
@@ -768,7 +776,7 @@ const English = {
             "1": "AF Coating",
             "2": "Glass",
             "3": "Black Print",
-            "4": "SI - OCA",
+            "4": "Si - OCA",
             "5": "TSP - M",
             title: {
                 "1": "Driving towards the trend"
@@ -831,7 +839,7 @@ const English = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": 054-451-4568",
+        tel: ": +82 054-451-4568",
         fax: ": 054-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
@@ -856,6 +864,10 @@ const Korean = {
     },
     word: {
         company: "COMPANY",
+        company2: "Compnay",
+        region: "Region",
+        firstName: "First Name",
+        lastName: "Last Name",
         products: "PRODUCTS",
         support: "SUPPORT",
         download: "download",
@@ -1072,7 +1084,7 @@ const Korean = {
             "1": "AF Coating",
             "2": "Glass",
             "3": "Black Print",
-            "4": "SI - OCA",
+            "4": "Si - OCA",
             "5": "TSP - M",
             title: {
                 "1": "Driving towards the trend"
@@ -1135,7 +1147,7 @@ const Korean = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": 054-451-4568",
+        tel: ": +82 054-451-4568",
         fax: ": 054-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
