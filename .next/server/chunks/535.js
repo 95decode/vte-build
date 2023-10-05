@@ -531,8 +531,8 @@ const Chinese = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": +82 054-451-4568",
-        fax: ": 054-441-4568",
+        tel: ": +82-(0)54-451-4568",
+        fax: ": +82-(0)54-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
         copyright: "Copyright\xa9VTE CORP. ALL RIGHTS RESERVED."
@@ -839,8 +839,8 @@ const English = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": +82 054-451-4568",
-        fax: ": 054-441-4568",
+        tel: ": +82-(0)54-451-4568",
+        fax: ": +82-(0)54-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
         copyright: "Copyright\xa9VTE CORP. ALL RIGHTS RESERVED."
@@ -1147,8 +1147,8 @@ const Korean = {
         fail: "Message sending failed..."
     },
     footer: {
-        tel: ": +82 054-451-4568",
-        fax: ": 054-441-4568",
+        tel: ": +82-(0)54-451-4568",
+        fax: ": +82-(0)54-441-4568",
         korea: ": 22-11, Indong 21-gil, Gumi-si, Gyeongsangbuk-do, Republic of Korea",
         china: ": NO.888 West of Renmin Rd. In West Development Zone Sheyang County 224300 Yancheng City, Jiangsu Prov.China",
         copyright: "Copyright\xa9VTE CORP. ALL RIGHTS RESERVED."
