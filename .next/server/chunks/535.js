@@ -452,6 +452,10 @@ const Chinese = {
                 "1": "Leading the future and",
                 "2": "technology"
             },
+            title3: {
+                "1": "Innovative Application of",
+                "2": "Deco Glass"
+            },
             description: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "various ways in our life style.",
@@ -462,6 +466,11 @@ const Chinese = {
             description2: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "kiosk and advanced interactive display."
+            },
+            description3: {
+                "1": "We produce cover glasses that can be applied in various",
+                "2": "sizes and specifications to special appliances such as",
+                "3": "kitchen hoods as well as existing large appliances."
             }
         },
         "3": {
@@ -760,6 +769,10 @@ const English = {
                 "1": "Leading the future and",
                 "2": "technology"
             },
+            title3: {
+                "1": "Innovative Application of",
+                "2": "Deco Glass"
+            },
             description: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "various ways in our life style.",
@@ -770,6 +783,11 @@ const English = {
             description2: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "kiosk and advanced interactive display."
+            },
+            description3: {
+                "1": "We produce cover glasses that can be applied in various",
+                "2": "sizes and specifications to special appliances such as",
+                "3": "kitchen hoods as well as existing large appliances."
             }
         },
         "3": {
@@ -1068,6 +1086,10 @@ const Korean = {
                 "1": "Leading the future and",
                 "2": "technology"
             },
+            title3: {
+                "1": "Innovative Application of",
+                "2": "Deco Glass"
+            },
             description: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "various ways in our life style.",
@@ -1078,6 +1100,11 @@ const Korean = {
             description2: {
                 "1": "VTE's tempered glass can be applied to",
                 "2": "kiosk and advanced interactive display."
+            },
+            description3: {
+                "1": "We produce cover glasses that can be applied in various",
+                "2": "sizes and specifications to special appliances such as",
+                "3": "kitchen hoods as well as existing large appliances."
             }
         },
         "3": {
