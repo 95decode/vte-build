@@ -226,7 +226,7 @@ module.exports = import("react-i18next");;
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [947,535], () => (__webpack_exec__(5006)));
+var __webpack_exports__ = __webpack_require__.X(0, [522,535], () => (__webpack_exec__(5006)));
 module.exports = __webpack_exports__;
 
 })();

@@ -1196,15 +1196,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5893);
-/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_AppleSDGothicNeoB_ttf_weight_400_variable_font_apple_variableName_Applefonts___WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(341);
+/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_AppleSDGothicNeoB_ttf_weight_400_variable_font_apple_variableName_Applefonts___WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(3954);
 /* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_AppleSDGothicNeoB_ttf_weight_400_variable_font_apple_variableName_Applefonts___WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_AppleSDGothicNeoB_ttf_weight_400_variable_font_apple_variableName_Applefonts___WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFMedium_ttf_weight_400_variable_font_gmarket_variableName_GmarketFonts___WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(872);
+/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFMedium_ttf_weight_400_variable_font_gmarket_variableName_GmarketFonts___WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7919);
 /* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFMedium_ttf_weight_400_variable_font_gmarket_variableName_GmarketFonts___WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFMedium_ttf_weight_400_variable_font_gmarket_variableName_GmarketFonts___WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFBold_ttf_weight_400_variable_font_gmarketBold_variableName_GmarketBoldFonts___WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2434);
+/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFBold_ttf_weight_400_variable_font_gmarketBold_variableName_GmarketBoldFonts___WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8260);
 /* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFBold_ttf_weight_400_variable_font_gmarketBold_variableName_GmarketBoldFonts___WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_GmarketSansTTFBold_ttf_weight_400_variable_font_gmarketBold_variableName_GmarketBoldFonts___WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansRegular_ttf_weight_400_variable_font_notoSans_variableName_NotoSansRegularFonts___WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3825);
+/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansRegular_ttf_weight_400_variable_font_notoSans_variableName_NotoSansRegularFonts___WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(5028);
 /* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansRegular_ttf_weight_400_variable_font_notoSans_variableName_NotoSansRegularFonts___WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansRegular_ttf_weight_400_variable_font_notoSans_variableName_NotoSansRegularFonts___WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansBold_ttf_weight_700_variable_font_notoSansBold_variableName_NotoSansBoldFonts___WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(5123);
+/* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansBold_ttf_weight_700_variable_font_notoSansBold_variableName_NotoSansBoldFonts___WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9202);
 /* harmony import */ var _next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansBold_ttf_weight_700_variable_font_notoSansBold_variableName_NotoSansBoldFonts___WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_next_font_local_target_css_path_src_pages_app_tsx_import_arguments_src_path_public_fonts_NotoSansBold_ttf_weight_700_variable_font_notoSansBold_variableName_NotoSansBoldFonts___WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(108);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_1__);
@@ -1284,7 +1284,12 @@ const Document = ()=>{
         className: "bg-default",
         lang: "en",
         children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_document__WEBPACK_IMPORTED_MODULE_1__.Head, {}),
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_document__WEBPACK_IMPORTED_MODULE_1__.Head, {
+                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
+                    name: "naver-site-verification",
+                    content: "654b18efd0858f24fc67ebc26a3a9d28264e90cd"
+                })
+            }),
             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("body", {
                 children: [
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_document__WEBPACK_IMPORTED_MODULE_1__.Main, {}),
